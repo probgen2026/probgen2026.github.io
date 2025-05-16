@@ -1,7 +1,7 @@
 header:
   - titles:
       # @start locale config
-      en      : &EN       Archive
+      en      : &EN       Travel
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
@@ -15,7 +15,7 @@ header:
       zh-HK   : *ZH_HANT
       ko      : &KO       아카이브
       ko-KR   : *KO
-      fr      : &FR       Archives
+      fr      : &FR       Travel
       fr-BE   : *FR
       fr-CA   : *FR
       fr-CH   : *FR
