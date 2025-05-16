@@ -64,8 +64,8 @@
   @include flexbox();
   @include align-items(center);
   & > svg {
-    width: 174px;
-    height: 87px;
+    width: 100px;
+    height: 50px;
     margin-right: map-get($spacers, 3);
     vertical-align: middle;
     @include media-breakpoint-down(md) {
