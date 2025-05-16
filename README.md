@@ -81,7 +81,7 @@ TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highl
 | Name | Description |
 | --- | --- |
 | [Home](https://kitian616.github.io/jekyll-TeXt-theme/test/) | Home page |
-| [Archive](https://kitian616.github.io/jekyll-TeXt-theme/archive.html) | Archive page |
+| [Travel](https://kitian616.github.io/jekyll-TeXt-theme/archive.html) | Travel page |
 | [Layout Examples](https://kitian616.github.io/jekyll-TeXt-theme/samples.html) | Examples for different layouts |
 
 ## License
