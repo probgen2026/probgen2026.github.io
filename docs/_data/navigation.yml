@@ -9,6 +9,8 @@ header:
     key:        samples
   - title:      Travel
     url:        /archive.html
+  - title:      Program
+    url:        /program.html
   - title:      Registration
     url:        /about.html
   - title:      GitHub
