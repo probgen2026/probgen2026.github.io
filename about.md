@@ -26,4 +26,10 @@ titles:
 key: page-about
 ---
 
-Registration is not open yet, but when it is, you will be able to register here. Registration will include some meals but will not include lodging. More information will be posted here when it is available.
+Registration is now open! Please use the following two links to register and submit an abstract. Please make sure to use both links if you to attend and present.
+
+1) You can <a href="https://na.eventscloud.com/850597">register here.</a> This registration includes some meals but will not include lodging. Registration will close on January 31st, 2026.
+
+2) You can <a href="https://docs.google.com/forms/d/e/1FAIpQLSfUJU4PwPVuddRCyu2bK9GcOK0TRcsmXV7qHD37P2ya7rrSqA/viewform?usp=dialog">submit an abstract here.</a> Abstract submission will close on January 15th, 2026.
+
+
