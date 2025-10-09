@@ -26,7 +26,7 @@ titles:
 key: page-about
 ---
 
-Registration is now open! Please use the following two links to register and submit an abstract. Please make sure to use both links if you plan to attend and present.
+Registration is now open! Please use the following two links to register and submit an abstract. <b>Please make sure to use both links if you plan to attend and present.</b>
 
 1) You can <a href="https://na.eventscloud.com/850597">register here.</a> This registration includes some meals but will not include lodging. Registration will close on January 31st, 2026.
 
