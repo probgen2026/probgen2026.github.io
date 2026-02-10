@@ -13,6 +13,8 @@ header:
     url:        /program.html
   - title:      Registration
     url:        /registration.html
+  - title:      Contact
+    url:        /contact.html
   - title:      GitHub
     url:        https://github.com/kitian616/jekyll-TeXt-theme
 
