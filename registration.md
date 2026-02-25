@@ -27,7 +27,9 @@ key: page-about
 ---
 Registration is now fully closed. Unfortunately, we are unable to accommodate any late registrations, as the participant list has been finalized and submitted to the event organizing services.
 
-Please note that any poster or talk (with the exception of session chairs and keynote speakers) will be automatically withdrawn if the presenter's registration information does not appear on the finalized registrant list.
+Please note that any poster or contributed talk (with the exception of session chairs and keynote speakers) will be automatically withdrawn if the presenter’s registration information does not appear on the finalized registrant list.
+
+If you have already registered and wish to withdraw your poster or talk, please contact the organizing committee so that we may update the program and logistics accordingly.
 
 Thank you for your understanding and cooperation.
 
