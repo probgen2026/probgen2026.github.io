@@ -26,10 +26,9 @@ titles:
 key: page-about
 ---
 
-Registration is now open! Please use the following two links to register and submit an abstract. <b>Please make sure to use both links if you plan to attend and present.</b>
+Registration is now completely closed. We are unable to accommodate any late registrations, as the participant list has been finalized and submitted to the event organizing services.
 
-1) You can <a href="https://na.eventscloud.com/850597">register here.</a> This registration includes some meals but will not include lodging. Registration will close on January 31st, 2026.
+Thank you for your understanding.
 
-2) You can <a href="https://docs.google.com/forms/d/e/1FAIpQLSfUJU4PwPVuddRCyu2bK9GcOK0TRcsmXV7qHD37P2ya7rrSqA/viewform?usp=dialog">submit an abstract here.</a> Abstract submission will close on January 15th, 2026.
 
 
