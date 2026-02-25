@@ -25,10 +25,11 @@ titles:
   # @end locale config
 key: page-about
 ---
+Registration is now fully closed. Unfortunately, we are unable to accommodate any late registrations, as the participant list has been finalized and submitted to the event organizing services.
 
-Registration is now completely closed. We are unable to accommodate any late registrations, as the participant list has been finalized and submitted to the event organizing services.
+Please note that any poster or talk (with the exception of session chairs and keynote speakers) will be automatically withdrawn if the presenter's registration information does not appear on the finalized registrant list.
 
-Thank you for your understanding.
+Thank you for your understanding and cooperation.
 
 
 
