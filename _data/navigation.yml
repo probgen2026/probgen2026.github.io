@@ -53,6 +53,32 @@ header:
 
   - titles:
       # @start locale config
+      en      : &EN       Abstracts
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      zh-Hans : &ZH_HANS  Abstracts
+      zh      : *ZH_HANS
+      zh-CN   : *ZH_HANS
+      zh-SG   : *ZH_HANS
+      zh-Hant : &ZH_HANT  Abstracts
+      zh-TW   : *ZH_HANT
+      zh-HK   : *ZH_HANT
+      ko      : &KO       Abstracts
+      ko-KR   : *KO
+      fr      : &FR       Abstracts
+      fr-BE   : *FR
+      fr-CA   : *FR
+      fr-CH   : *FR
+      fr-FR   : *FR
+      fr-LU   : *FR
+      tr      : &TR       Abstracts
+      # @end locale config
+    url: /assets/ProbGen2026_Abstract_Booklet.pdf
+
+  - titles:
+      # @start locale config
       en      : &EN       Registration
       en-GB   : *EN
       en-US   : *EN
